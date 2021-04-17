@@ -1,5 +1,5 @@
 # Doing-Math-with-Python
-My alternative solutions to problems form Amit Sahas book "Doing math with Python".
+My alternative solutions to problems from Amit Sahas book "Doing math with Python".
 
 <h1>Chapter 1</h1>
 
