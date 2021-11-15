@@ -220,7 +220,7 @@ My alternative solutions to problems from Amit Saha's book "Doing math with Pyth
 <tr>
 <td>1</td>
 <td>Exercise 1</td>
-<td><a href="https://github.com/djeada/Doing-Math-with-Python/blob/master/src/Chapter7/Exercise1.pyy">Python</a></td>
+<td><a href="https://github.com/djeada/Doing-Math-with-Python/blob/master/src/Chapter7/Exercise1.py">Python</a></td>
 </tr>
 <tr>
 <td>2</td>
