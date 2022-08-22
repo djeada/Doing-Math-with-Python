@@ -1,6 +1,8 @@
 # Doing-Math-with-Python
 My alternative solutions to problems from Amit Saha's book "Doing math with Python".
 
+![51ObPO65iAL](https://user-images.githubusercontent.com/37275728/185880825-212f29d3-d8a9-4653-928f-40796471a5c9.jpg)
+
 <h1>Chapter 1</h1>
 
 <table>
